@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  main.cpp
+C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\main.cpp(32,41): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\main.cpp(81,26): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\main.cpp(104,28): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\main.cpp(106,28): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\main.cpp(108,28): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\main.cpp(110,28): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+  Kod üretiliyor
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  Project1.vcxproj -> C:\Users\beriv\Desktop\180401037_B.Grafiği Ödev\Project1\Project1\x64\Release\Project1.exe
